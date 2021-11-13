@@ -1,0 +1,3590 @@
+Query: 1
+Nearest neighbor-1: 21
+distanceHypercube: 597.681
+distanceTrue: 276.782
+tHypercube: 15171 micro secs
+tTrue: 92287 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 2
+Nearest neighbor-1: 20
+distanceHypercube: 580.611
+distanceTrue: 256.852
+tHypercube: 15025 micro secs
+tTrue: 89885 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 3
+Nearest neighbor-1: 13
+distanceHypercube: 291.412
+distanceTrue: 206.737
+tHypercube: 45904 micro secs
+tTrue: 89367 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 4
+Nearest neighbor-1: 7
+distanceHypercube: 639.219
+distanceTrue: 215.177
+tHypercube: 44864 micro secs
+tTrue: 90943 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 5
+Nearest neighbor-1: 1
+distanceHypercube: 361.787
+distanceTrue: 250.509
+tHypercube: 44773 micro secs
+tTrue: 90364 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 6
+Nearest neighbor-1: 2
+distanceHypercube: 561.064
+distanceTrue: 275.151
+tHypercube: 44392 micro secs
+tTrue: 89020 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 7
+Nearest neighbor-1: 19
+distanceHypercube: 590.721
+distanceTrue: 246.609
+tHypercube: 14392 micro secs
+tTrue: 89398 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 8
+Nearest neighbor-1: 41
+distanceHypercube: 319.845
+distanceTrue: 173.948
+tHypercube: 14657 micro secs
+tTrue: 89285 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 9
+Nearest neighbor-1: 1
+distanceHypercube: 306.738
+distanceTrue: 248.473
+tHypercube: 44463 micro secs
+tTrue: 89054 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 10
+Nearest neighbor-1: 1
+distanceHypercube: 347.547
+distanceTrue: 250.014
+tHypercube: 44640 micro secs
+tTrue: 89443 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 11
+Nearest neighbor-1: 7
+distanceHypercube: 577.324
+distanceTrue: 293.883
+tHypercube: 46070 micro secs
+tTrue: 89667 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 12
+Nearest neighbor-1: 9
+distanceHypercube: 272.079
+distanceTrue: 172.163
+tHypercube: 14298 micro secs
+tTrue: 90678 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 13
+Nearest neighbor-1: 17
+distanceHypercube: 617.823
+distanceTrue: 238.55
+tHypercube: 44678 micro secs
+tTrue: 89708 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 14
+Nearest neighbor-1: 7
+distanceHypercube: 590.834
+distanceTrue: 244.677
+tHypercube: 45512 micro secs
+tTrue: 89053 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 15
+Nearest neighbor-1: 10
+distanceHypercube: 356.118
+distanceTrue: 273.317
+tHypercube: 14364 micro secs
+tTrue: 90644 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 16
+Nearest neighbor-1: 3
+distanceHypercube: 262.168
+distanceTrue: 253.683
+tHypercube: 44663 micro secs
+tTrue: 89949 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 17
+Nearest neighbor-1: 22
+distanceHypercube: 599.817
+distanceTrue: 248.2
+tHypercube: 14286 micro secs
+tTrue: 90220 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 18
+Nearest neighbor-1: 10
+distanceHypercube: 611.2
+distanceTrue: 254.635
+tHypercube: 14038 micro secs
+tTrue: 89936 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 19
+Nearest neighbor-1: 18
+distanceHypercube: 375.053
+distanceTrue: 266.889
+tHypercube: 44705 micro secs
+tTrue: 89397 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 20
+Nearest neighbor-1: 7
+distanceHypercube: 607.108
+distanceTrue: 224.751
+tHypercube: 44795 micro secs
+tTrue: 89130 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 21
+Nearest neighbor-1: 16
+distanceHypercube: 353.296
+distanceTrue: 192.984
+tHypercube: 44415 micro secs
+tTrue: 88774 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 22
+Nearest neighbor-1: 58
+distanceHypercube: 263.253
+distanceTrue: 80.8455
+tHypercube: 14600 micro secs
+tTrue: 89500 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 23
+Nearest neighbor-1: 2
+distanceHypercube: 254.947
+distanceTrue: 173.052
+tHypercube: 44697 micro secs
+tTrue: 89476 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 24
+Nearest neighbor-1: 58
+distanceHypercube: 302.534
+distanceTrue: 253.941
+tHypercube: 14508 micro secs
+tTrue: 89007 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 25
+Nearest neighbor-1: 3
+distanceHypercube: 302.749
+distanceTrue: 154.227
+tHypercube: 44422 micro secs
+tTrue: 89932 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 26
+Nearest neighbor-1: 57
+distanceHypercube: 318.854
+distanceTrue: 271.61
+tHypercube: 14519 micro secs
+tTrue: 90330 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 27
+Nearest neighbor-1: 2
+distanceHypercube: 336.966
+distanceTrue: 183.442
+tHypercube: 44232 micro secs
+tTrue: 88774 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 28
+Nearest neighbor-1: 3
+distanceHypercube: 338.658
+distanceTrue: 175.516
+tHypercube: 44782 micro secs
+tTrue: 88565 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 29
+Nearest neighbor-1: 60
+distanceHypercube: 286.562
+distanceTrue: 224.86
+tHypercube: 14604 micro secs
+tTrue: 88534 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 30
+Nearest neighbor-1: 5159
+distanceHypercube: 216.527
+distanceTrue: 125.379
+tHypercube: 432 micro secs
+tTrue: 89630 micro secs
+R-near neighbours:
+4575
+4867
+5159
+5319
+5464
+5467
+5747
+5848
+6103
+6567
+
+Query: 31
+Nearest neighbor-1: 7
+distanceHypercube: 328.983
+distanceTrue: 265.377
+tHypercube: 44751 micro secs
+tTrue: 89202 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 32
+Nearest neighbor-1: 1
+distanceHypercube: 391.52
+distanceTrue: 109.192
+tHypercube: 44565 micro secs
+tTrue: 89894 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 33
+Nearest neighbor-1: 3
+distanceHypercube: 360.061
+distanceTrue: 187.563
+tHypercube: 44917 micro secs
+tTrue: 88253 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 34
+Nearest neighbor-1: 13
+distanceHypercube: 598.112
+distanceTrue: 328.279
+tHypercube: 44984 micro secs
+tTrue: 89232 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 35
+Nearest neighbor-1: 22
+distanceHypercube: 310.048
+distanceTrue: 248.554
+tHypercube: 14224 micro secs
+tTrue: 89088 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 36
+Nearest neighbor-1: 21
+distanceHypercube: 566.608
+distanceTrue: 120.975
+tHypercube: 13972 micro secs
+tTrue: 89040 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 37
+Nearest neighbor-1: 7
+distanceHypercube: 593.282
+distanceTrue: 111.459
+tHypercube: 44994 micro secs
+tTrue: 92124 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 38
+Nearest neighbor-1: 18
+distanceHypercube: 550.71
+distanceTrue: 166.856
+tHypercube: 44552 micro secs
+tTrue: 90644 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 39
+Nearest neighbor-1: 16
+distanceHypercube: 425.556
+distanceTrue: 156.359
+tHypercube: 44724 micro secs
+tTrue: 89790 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 40
+Nearest neighbor-1: 1478
+distanceHypercube: 267.139
+distanceTrue: 193.977
+tHypercube: 2746 micro secs
+tTrue: 88749 micro secs
+R-near neighbours:
+38
+46
+50
+82
+100
+322
+468
+1478
+1907
+2338
+
+Query: 41
+Nearest neighbor-1: 2
+distanceHypercube: 335.5
+distanceTrue: 153.564
+tHypercube: 44557 micro secs
+tTrue: 89107 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 42
+Nearest neighbor-1: 7
+distanceHypercube: 606.621
+distanceTrue: 200.494
+tHypercube: 45779 micro secs
+tTrue: 88792 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 43
+Nearest neighbor-1: 1
+distanceHypercube: 345.141
+distanceTrue: 236.772
+tHypercube: 44577 micro secs
+tTrue: 88935 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 44
+Nearest neighbor-1: 30
+distanceHypercube: 346.347
+distanceTrue: 165.339
+tHypercube: 14411 micro secs
+tTrue: 89223 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 45
+Nearest neighbor-1: 330
+distanceHypercube: 311.458
+distanceTrue: 256.353
+tHypercube: 5282 micro secs
+tTrue: 89461 micro secs
+R-near neighbours:
+45
+47
+48
+69
+210
+330
+376
+377
+415
+424
+
+Query: 46
+Nearest neighbor-1: 57
+distanceHypercube: 336.46
+distanceTrue: 261.362
+tHypercube: 14344 micro secs
+tTrue: 88676 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 47
+Nearest neighbor-1: 131
+distanceHypercube: 357.634
+distanceTrue: 99.6293
+tHypercube: 4063 micro secs
+tTrue: 88666 micro secs
+R-near neighbours:
+39
+40
+88
+96
+121
+123
+127
+130
+131
+145
+
+Query: 48
+Nearest neighbor-1: 21
+distanceHypercube: 547.613
+distanceTrue: 294.394
+tHypercube: 14260 micro secs
+tTrue: 91005 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 49
+Nearest neighbor-1: 2
+distanceHypercube: 405.365
+distanceTrue: 155.763
+tHypercube: 44287 micro secs
+tTrue: 90205 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 50
+Nearest neighbor-1: 88
+distanceHypercube: 591.708
+distanceTrue: 128.783
+tHypercube: 4059 micro secs
+tTrue: 88265 micro secs
+R-near neighbours:
+39
+40
+88
+96
+121
+123
+127
+130
+131
+145
+
+Query: 51
+Nearest neighbor-1: 60
+distanceHypercube: 411.762
+distanceTrue: 181.141
+tHypercube: 14652 micro secs
+tTrue: 88991 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 52
+Nearest neighbor-1: 6
+distanceHypercube: 343.255
+distanceTrue: 130.813
+tHypercube: 14374 micro secs
+tTrue: 90117 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 53
+Nearest neighbor-1: 58
+distanceHypercube: 250.392
+distanceTrue: 198.776
+tHypercube: 14143 micro secs
+tTrue: 88950 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 54
+Nearest neighbor-1: 58
+distanceHypercube: 330.521
+distanceTrue: 194.178
+tHypercube: 14155 micro secs
+tTrue: 88478 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 55
+Nearest neighbor-1: 2338
+distanceHypercube: 196.099
+distanceTrue: 159.308
+tHypercube: 2786 micro secs
+tTrue: 88934 micro secs
+R-near neighbours:
+38
+46
+50
+82
+100
+322
+468
+1478
+1907
+2338
+
+Query: 56
+Nearest neighbor-1: 82
+distanceHypercube: 308.916
+distanceTrue: 184.043
+tHypercube: 2585 micro secs
+tTrue: 88492 micro secs
+R-near neighbours:
+38
+46
+50
+82
+100
+322
+468
+1478
+1907
+2338
+
+Query: 57
+Nearest neighbor-1: 2
+distanceHypercube: 297.629
+distanceTrue: 190.735
+tHypercube: 44614 micro secs
+tTrue: 89292 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 58
+Nearest neighbor-1: 7
+distanceHypercube: 622.071
+distanceTrue: 167.147
+tHypercube: 44679 micro secs
+tTrue: 89142 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 59
+Nearest neighbor-1: 16
+distanceHypercube: 394.63
+distanceTrue: 65.7419
+tHypercube: 44107 micro secs
+tTrue: 89055 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 60
+Nearest neighbor-1: 2337
+distanceHypercube: 197.765
+distanceTrue: 114.416
+tHypercube: 1909 micro secs
+tTrue: 89720 micro secs
+R-near neighbours:
+81
+99
+2337
+4556
+4564
+4579
+4607
+4609
+4643
+4690
+
+Query: 61
+Nearest neighbor-1: 2
+distanceHypercube: 362.633
+distanceTrue: 170.309
+tHypercube: 44566 micro secs
+tTrue: 89137 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 62
+Nearest neighbor-1: 415
+distanceHypercube: 506.369
+distanceTrue: 140.357
+tHypercube: 5088 micro secs
+tTrue: 87004 micro secs
+R-near neighbours:
+45
+47
+48
+69
+210
+330
+376
+377
+415
+424
+
+Query: 63
+Nearest neighbor-1: 6269
+distanceHypercube: 207.017
+distanceTrue: 131.651
+tHypercube: 151 micro secs
+tTrue: 88922 micro secs
+R-near neighbours:
+6269
+7352
+7581
+7724
+8615
+
+Query: 64
+Nearest neighbor-1: 14
+distanceHypercube: 313.731
+distanceTrue: 94.9158
+tHypercube: 14555 micro secs
+tTrue: 88941 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 65
+Nearest neighbor-1: 59
+distanceHypercube: 431.042
+distanceTrue: 138.275
+tHypercube: 14279 micro secs
+tTrue: 88840 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 66
+Nearest neighbor-1: 377
+distanceHypercube: 254.501
+distanceTrue: 173.381
+tHypercube: 5157 micro secs
+tTrue: 89087 micro secs
+R-near neighbours:
+45
+47
+48
+69
+210
+330
+376
+377
+415
+424
+
+Query: 67
+Nearest neighbor-1: 415
+distanceHypercube: 468.066
+distanceTrue: 200.866
+tHypercube: 5095 micro secs
+tTrue: 88531 micro secs
+R-near neighbours:
+45
+47
+48
+69
+210
+330
+376
+377
+415
+424
+
+Query: 68
+Nearest neighbor-1: 14
+distanceHypercube: 549.617
+distanceTrue: 224.225
+tHypercube: 14290 micro secs
+tTrue: 88655 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 69
+Nearest neighbor-1: 58
+distanceHypercube: 352.038
+distanceTrue: 201.311
+tHypercube: 14132 micro secs
+tTrue: 88390 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 70
+Nearest neighbor-1: 7
+distanceHypercube: 385.013
+distanceTrue: 266.813
+tHypercube: 44468 micro secs
+tTrue: 88913 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 71
+Nearest neighbor-1: 1478
+distanceHypercube: 338.188
+distanceTrue: 46.8188
+tHypercube: 2701 micro secs
+tTrue: 90772 micro secs
+R-near neighbours:
+38
+46
+50
+82
+100
+322
+468
+1478
+1907
+2338
+
+Query: 72
+Nearest neighbor-1: 16
+distanceHypercube: 403.633
+distanceTrue: 193.675
+tHypercube: 44191 micro secs
+tTrue: 89582 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 73
+Nearest neighbor-1: 7
+distanceHypercube: 386.66
+distanceTrue: 303.211
+tHypercube: 44634 micro secs
+tTrue: 89570 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 74
+Nearest neighbor-1: 2
+distanceHypercube: 443.819
+distanceTrue: 230.458
+tHypercube: 44414 micro secs
+tTrue: 88786 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 75
+Nearest neighbor-1: 22
+distanceHypercube: 282.866
+distanceTrue: 131.095
+tHypercube: 14824 micro secs
+tTrue: 89068 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 76
+Nearest neighbor-1: 16
+distanceHypercube: 396.31
+distanceTrue: 212.061
+tHypercube: 44620 micro secs
+tTrue: 90581 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 77
+Nearest neighbor-1: 39
+distanceHypercube: 366.719
+distanceTrue: 251.257
+tHypercube: 4093 micro secs
+tTrue: 88933 micro secs
+R-near neighbours:
+39
+40
+88
+96
+121
+123
+127
+130
+131
+145
+
+Query: 78
+Nearest neighbor-1: 30
+distanceHypercube: 385.062
+distanceTrue: 293.716
+tHypercube: 14254 micro secs
+tTrue: 89502 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 79
+Nearest neighbor-1: 1
+distanceHypercube: 312.373
+distanceTrue: 226.868
+tHypercube: 44563 micro secs
+tTrue: 89664 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 80
+Nearest neighbor-1: 99
+distanceHypercube: 253.132
+distanceTrue: 148.165
+tHypercube: 1954 micro secs
+tTrue: 88221 micro secs
+R-near neighbours:
+81
+99
+2337
+4556
+4564
+4579
+4607
+4609
+4643
+4690
+
+Query: 81
+Nearest neighbor-1: 7
+distanceHypercube: 586.781
+distanceTrue: 146.311
+tHypercube: 44669 micro secs
+tTrue: 88989 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 82
+Nearest neighbor-1: 15
+distanceHypercube: 364.635
+distanceTrue: 276.819
+tHypercube: 44646 micro secs
+tTrue: 92282 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 83
+Nearest neighbor-1: 10
+distanceHypercube: 404.746
+distanceTrue: 271.982
+tHypercube: 14299 micro secs
+tTrue: 89153 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 84
+Nearest neighbor-1: 58
+distanceHypercube: 340.25
+distanceTrue: 181.607
+tHypercube: 14592 micro secs
+tTrue: 89099 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 85
+Nearest neighbor-1: 13
+distanceHypercube: 335.628
+distanceTrue: 192.678
+tHypercube: 44597 micro secs
+tTrue: 89729 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 86
+Nearest neighbor-1: 322
+distanceHypercube: 537.879
+distanceTrue: 285.107
+tHypercube: 2701 micro secs
+tTrue: 88759 micro secs
+R-near neighbours:
+38
+46
+50
+82
+100
+322
+468
+1478
+1907
+2338
+
+Query: 87
+Nearest neighbor-1: 18
+distanceHypercube: 574.924
+distanceTrue: 224.907
+tHypercube: 45301 micro secs
+tTrue: 89103 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 88
+Nearest neighbor-1: 46
+distanceHypercube: 500.309
+distanceTrue: 123.56
+tHypercube: 2988 micro secs
+tTrue: 88519 micro secs
+R-near neighbours:
+38
+46
+50
+82
+100
+322
+468
+1478
+1907
+2338
+
+Query: 89
+Nearest neighbor-1: 14
+distanceHypercube: 596.325
+distanceTrue: 75.08
+tHypercube: 15026 micro secs
+tTrue: 87123 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 90
+Nearest neighbor-1: 47
+distanceHypercube: 224.453
+distanceTrue: 114.534
+tHypercube: 5264 micro secs
+tTrue: 88911 micro secs
+R-near neighbours:
+45
+47
+48
+69
+210
+330
+376
+377
+415
+424
+
+Query: 91
+Nearest neighbor-1: 33
+distanceHypercube: 207.576
+distanceTrue: 50.4579
+tHypercube: 14296 micro secs
+tTrue: 90039 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 92
+Nearest neighbor-1: 59
+distanceHypercube: 436.102
+distanceTrue: 298.027
+tHypercube: 14270 micro secs
+tTrue: 90678 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 93
+Nearest neighbor-1: 2
+distanceHypercube: 407.923
+distanceTrue: 141.464
+tHypercube: 44627 micro secs
+tTrue: 90733 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 94
+Nearest neighbor-1: 4
+distanceHypercube: 338.993
+distanceTrue: 234.774
+tHypercube: 14583 micro secs
+tTrue: 89756 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 95
+Nearest neighbor-1: 415
+distanceHypercube: 459.071
+distanceTrue: 160.571
+tHypercube: 5292 micro secs
+tTrue: 87856 micro secs
+R-near neighbours:
+45
+47
+48
+69
+210
+330
+376
+377
+415
+424
+
+Query: 96
+Nearest neighbor-1: 18
+distanceHypercube: 583.945
+distanceTrue: 305.392
+tHypercube: 44528 micro secs
+tTrue: 88980 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 97
+Nearest neighbor-1: 16
+distanceHypercube: 391.639
+distanceTrue: 285.79
+tHypercube: 44697 micro secs
+tTrue: 92170 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 98
+Nearest neighbor-1: 18
+distanceHypercube: 418.645
+distanceTrue: 233.532
+tHypercube: 44213 micro secs
+tTrue: 88588 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 99
+Nearest neighbor-1: 1209
+distanceHypercube: 234.226
+distanceTrue: 137.43
+tHypercube: 985 micro secs
+tTrue: 88919 micro secs
+R-near neighbours:
+37
+49
+68
+438
+1209
+1697
+1906
+2295
+2731
+3162
+
+Query: 100
+Nearest neighbor-1: 14
+distanceHypercube: 393.9
+distanceTrue: 184.613
+tHypercube: 14521 micro secs
+tTrue: 88780 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 1
+Nearest neighbor-1: 21
+distanceHypercube: 597.681
+distanceTrue: 276.782
+tHypercube: 15342 micro secs
+tTrue: 105592 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 2
+Nearest neighbor-1: 20
+distanceHypercube: 580.611
+distanceTrue: 256.852
+tHypercube: 15554 micro secs
+tTrue: 90457 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 3
+Nearest neighbor-1: 13
+distanceHypercube: 291.412
+distanceTrue: 206.737
+tHypercube: 47401 micro secs
+tTrue: 90631 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 4
+Nearest neighbor-1: 7
+distanceHypercube: 639.219
+distanceTrue: 215.177
+tHypercube: 45266 micro secs
+tTrue: 97586 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 5
+Nearest neighbor-1: 1
+distanceHypercube: 361.787
+distanceTrue: 250.509
+tHypercube: 46062 micro secs
+tTrue: 90835 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 6
+Nearest neighbor-1: 2
+distanceHypercube: 561.064
+distanceTrue: 275.151
+tHypercube: 44894 micro secs
+tTrue: 89363 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 7
+Nearest neighbor-1: 19
+distanceHypercube: 590.721
+distanceTrue: 246.609
+tHypercube: 15609 micro secs
+tTrue: 90298 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 8
+Nearest neighbor-1: 41
+distanceHypercube: 319.845
+distanceTrue: 173.948
+tHypercube: 16291 micro secs
+tTrue: 97128 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 9
+Nearest neighbor-1: 1
+distanceHypercube: 306.738
+distanceTrue: 248.473
+tHypercube: 45246 micro secs
+tTrue: 97757 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 10
+Nearest neighbor-1: 1
+distanceHypercube: 347.547
+distanceTrue: 250.014
+tHypercube: 44778 micro secs
+tTrue: 96675 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 11
+Nearest neighbor-1: 7
+distanceHypercube: 577.324
+distanceTrue: 293.883
+tHypercube: 44568 micro secs
+tTrue: 99104 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 12
+Nearest neighbor-1: 9
+distanceHypercube: 272.079
+distanceTrue: 172.163
+tHypercube: 14341 micro secs
+tTrue: 99586 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 13
+Nearest neighbor-1: 17
+distanceHypercube: 617.823
+distanceTrue: 238.55
+tHypercube: 45031 micro secs
+tTrue: 95673 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 14
+Nearest neighbor-1: 7
+distanceHypercube: 590.834
+distanceTrue: 244.677
+tHypercube: 45338 micro secs
+tTrue: 93563 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 15
+Nearest neighbor-1: 10
+distanceHypercube: 356.118
+distanceTrue: 273.317
+tHypercube: 14822 micro secs
+tTrue: 93373 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 16
+Nearest neighbor-1: 3
+distanceHypercube: 262.168
+distanceTrue: 253.683
+tHypercube: 45752 micro secs
+tTrue: 96339 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 17
+Nearest neighbor-1: 22
+distanceHypercube: 599.817
+distanceTrue: 248.2
+tHypercube: 14849 micro secs
+tTrue: 93889 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 18
+Nearest neighbor-1: 10
+distanceHypercube: 611.2
+distanceTrue: 254.635
+tHypercube: 14575 micro secs
+tTrue: 97310 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 19
+Nearest neighbor-1: 18
+distanceHypercube: 375.053
+distanceTrue: 266.889
+tHypercube: 46604 micro secs
+tTrue: 97511 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 20
+Nearest neighbor-1: 7
+distanceHypercube: 607.108
+distanceTrue: 224.751
+tHypercube: 45439 micro secs
+tTrue: 89620 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 21
+Nearest neighbor-1: 16
+distanceHypercube: 353.296
+distanceTrue: 192.984
+tHypercube: 44579 micro secs
+tTrue: 88887 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 22
+Nearest neighbor-1: 58
+distanceHypercube: 263.253
+distanceTrue: 80.8455
+tHypercube: 14746 micro secs
+tTrue: 89633 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 23
+Nearest neighbor-1: 2
+distanceHypercube: 254.947
+distanceTrue: 173.052
+tHypercube: 45403 micro secs
+tTrue: 89753 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 24
+Nearest neighbor-1: 58
+distanceHypercube: 302.534
+distanceTrue: 253.941
+tHypercube: 14651 micro secs
+tTrue: 89354 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 25
+Nearest neighbor-1: 3
+distanceHypercube: 302.749
+distanceTrue: 154.227
+tHypercube: 44840 micro secs
+tTrue: 91494 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 26
+Nearest neighbor-1: 57
+distanceHypercube: 318.854
+distanceTrue: 271.61
+tHypercube: 15202 micro secs
+tTrue: 92333 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 27
+Nearest neighbor-1: 2
+distanceHypercube: 336.966
+distanceTrue: 183.442
+tHypercube: 44835 micro secs
+tTrue: 89723 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 28
+Nearest neighbor-1: 3
+distanceHypercube: 338.658
+distanceTrue: 175.516
+tHypercube: 44472 micro secs
+tTrue: 89366 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 29
+Nearest neighbor-1: 60
+distanceHypercube: 286.562
+distanceTrue: 224.86
+tHypercube: 14462 micro secs
+tTrue: 88953 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 30
+Nearest neighbor-1: 5159
+distanceHypercube: 216.527
+distanceTrue: 125.379
+tHypercube: 427 micro secs
+tTrue: 88689 micro secs
+R-near neighbours:
+4575
+4867
+5159
+5319
+5464
+5467
+5747
+5848
+6103
+6567
+
+Query: 31
+Nearest neighbor-1: 7
+distanceHypercube: 328.983
+distanceTrue: 265.377
+tHypercube: 44721 micro secs
+tTrue: 89191 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 32
+Nearest neighbor-1: 1
+distanceHypercube: 391.52
+distanceTrue: 109.192
+tHypercube: 45061 micro secs
+tTrue: 89913 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 33
+Nearest neighbor-1: 3
+distanceHypercube: 360.061
+distanceTrue: 187.563
+tHypercube: 45323 micro secs
+tTrue: 94893 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 34
+Nearest neighbor-1: 13
+distanceHypercube: 598.112
+distanceTrue: 328.279
+tHypercube: 46024 micro secs
+tTrue: 95853 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 35
+Nearest neighbor-1: 22
+distanceHypercube: 310.048
+distanceTrue: 248.554
+tHypercube: 15029 micro secs
+tTrue: 90815 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 36
+Nearest neighbor-1: 21
+distanceHypercube: 566.608
+distanceTrue: 120.975
+tHypercube: 14590 micro secs
+tTrue: 89402 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 37
+Nearest neighbor-1: 7
+distanceHypercube: 593.282
+distanceTrue: 111.459
+tHypercube: 45908 micro secs
+tTrue: 90261 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 38
+Nearest neighbor-1: 18
+distanceHypercube: 550.71
+distanceTrue: 166.856
+tHypercube: 47399 micro secs
+tTrue: 89518 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 39
+Nearest neighbor-1: 16
+distanceHypercube: 425.556
+distanceTrue: 156.359
+tHypercube: 45089 micro secs
+tTrue: 90447 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 40
+Nearest neighbor-1: 1478
+distanceHypercube: 267.139
+distanceTrue: 193.977
+tHypercube: 2736 micro secs
+tTrue: 90202 micro secs
+R-near neighbours:
+38
+46
+50
+82
+100
+322
+468
+1478
+1907
+2338
+
+Query: 41
+Nearest neighbor-1: 2
+distanceHypercube: 335.5
+distanceTrue: 153.564
+tHypercube: 44622 micro secs
+tTrue: 89213 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 42
+Nearest neighbor-1: 7
+distanceHypercube: 606.621
+distanceTrue: 200.494
+tHypercube: 44500 micro secs
+tTrue: 89750 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 43
+Nearest neighbor-1: 1
+distanceHypercube: 345.141
+distanceTrue: 236.772
+tHypercube: 44467 micro secs
+tTrue: 91269 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 44
+Nearest neighbor-1: 30
+distanceHypercube: 346.347
+distanceTrue: 165.339
+tHypercube: 14294 micro secs
+tTrue: 91586 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 45
+Nearest neighbor-1: 330
+distanceHypercube: 311.458
+distanceTrue: 256.353
+tHypercube: 5244 micro secs
+tTrue: 91542 micro secs
+R-near neighbours:
+45
+47
+48
+69
+210
+330
+376
+377
+415
+424
+
+Query: 46
+Nearest neighbor-1: 57
+distanceHypercube: 336.46
+distanceTrue: 261.362
+tHypercube: 14352 micro secs
+tTrue: 89074 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 47
+Nearest neighbor-1: 131
+distanceHypercube: 357.634
+distanceTrue: 99.6293
+tHypercube: 4044 micro secs
+tTrue: 90302 micro secs
+R-near neighbours:
+39
+40
+88
+96
+121
+123
+127
+130
+131
+145
+
+Query: 48
+Nearest neighbor-1: 21
+distanceHypercube: 547.613
+distanceTrue: 294.394
+tHypercube: 14358 micro secs
+tTrue: 91800 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 49
+Nearest neighbor-1: 2
+distanceHypercube: 405.365
+distanceTrue: 155.763
+tHypercube: 44966 micro secs
+tTrue: 91124 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 50
+Nearest neighbor-1: 88
+distanceHypercube: 591.708
+distanceTrue: 128.783
+tHypercube: 4363 micro secs
+tTrue: 89210 micro secs
+R-near neighbours:
+39
+40
+88
+96
+121
+123
+127
+130
+131
+145
+
+Query: 51
+Nearest neighbor-1: 60
+distanceHypercube: 411.762
+distanceTrue: 181.141
+tHypercube: 14597 micro secs
+tTrue: 89615 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 52
+Nearest neighbor-1: 6
+distanceHypercube: 343.255
+distanceTrue: 130.813
+tHypercube: 14592 micro secs
+tTrue: 88928 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 53
+Nearest neighbor-1: 58
+distanceHypercube: 250.392
+distanceTrue: 198.776
+tHypercube: 14503 micro secs
+tTrue: 89791 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 54
+Nearest neighbor-1: 58
+distanceHypercube: 330.521
+distanceTrue: 194.178
+tHypercube: 14764 micro secs
+tTrue: 89466 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 55
+Nearest neighbor-1: 2338
+distanceHypercube: 196.099
+distanceTrue: 159.308
+tHypercube: 2776 micro secs
+tTrue: 89174 micro secs
+R-near neighbours:
+38
+46
+50
+82
+100
+322
+468
+1478
+1907
+2338
+
+Query: 56
+Nearest neighbor-1: 82
+distanceHypercube: 308.916
+distanceTrue: 184.043
+tHypercube: 2699 micro secs
+tTrue: 88012 micro secs
+R-near neighbours:
+38
+46
+50
+82
+100
+322
+468
+1478
+1907
+2338
+
+Query: 57
+Nearest neighbor-1: 2
+distanceHypercube: 297.629
+distanceTrue: 190.735
+tHypercube: 45869 micro secs
+tTrue: 91641 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 58
+Nearest neighbor-1: 7
+distanceHypercube: 622.071
+distanceTrue: 167.147
+tHypercube: 46903 micro secs
+tTrue: 91120 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 59
+Nearest neighbor-1: 16
+distanceHypercube: 394.63
+distanceTrue: 65.7419
+tHypercube: 45517 micro secs
+tTrue: 91959 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 60
+Nearest neighbor-1: 2337
+distanceHypercube: 197.765
+distanceTrue: 114.416
+tHypercube: 1895 micro secs
+tTrue: 89220 micro secs
+R-near neighbours:
+81
+99
+2337
+4556
+4564
+4579
+4607
+4609
+4643
+4690
+
+Query: 61
+Nearest neighbor-1: 2
+distanceHypercube: 362.633
+distanceTrue: 170.309
+tHypercube: 44707 micro secs
+tTrue: 89243 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 62
+Nearest neighbor-1: 415
+distanceHypercube: 506.369
+distanceTrue: 140.357
+tHypercube: 5110 micro secs
+tTrue: 87239 micro secs
+R-near neighbours:
+45
+47
+48
+69
+210
+330
+376
+377
+415
+424
+
+Query: 63
+Nearest neighbor-1: 6269
+distanceHypercube: 207.017
+distanceTrue: 131.651
+tHypercube: 147 micro secs
+tTrue: 88639 micro secs
+R-near neighbours:
+6269
+7352
+7581
+7724
+8615
+
+Query: 64
+Nearest neighbor-1: 14
+distanceHypercube: 313.731
+distanceTrue: 94.9158
+tHypercube: 14535 micro secs
+tTrue: 88777 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 65
+Nearest neighbor-1: 59
+distanceHypercube: 431.042
+distanceTrue: 138.275
+tHypercube: 14200 micro secs
+tTrue: 89351 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 66
+Nearest neighbor-1: 377
+distanceHypercube: 254.501
+distanceTrue: 173.381
+tHypercube: 5146 micro secs
+tTrue: 90285 micro secs
+R-near neighbours:
+45
+47
+48
+69
+210
+330
+376
+377
+415
+424
+
+Query: 67
+Nearest neighbor-1: 415
+distanceHypercube: 468.066
+distanceTrue: 200.866
+tHypercube: 5048 micro secs
+tTrue: 88634 micro secs
+R-near neighbours:
+45
+47
+48
+69
+210
+330
+376
+377
+415
+424
+
+Query: 68
+Nearest neighbor-1: 14
+distanceHypercube: 549.617
+distanceTrue: 224.225
+tHypercube: 14388 micro secs
+tTrue: 88958 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 69
+Nearest neighbor-1: 58
+distanceHypercube: 352.038
+distanceTrue: 201.311
+tHypercube: 14084 micro secs
+tTrue: 88371 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 70
+Nearest neighbor-1: 7
+distanceHypercube: 385.013
+distanceTrue: 266.813
+tHypercube: 44425 micro secs
+tTrue: 92962 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 71
+Nearest neighbor-1: 1478
+distanceHypercube: 338.188
+distanceTrue: 46.8188
+tHypercube: 2691 micro secs
+tTrue: 89190 micro secs
+R-near neighbours:
+38
+46
+50
+82
+100
+322
+468
+1478
+1907
+2338
+
+Query: 72
+Nearest neighbor-1: 16
+distanceHypercube: 403.633
+distanceTrue: 193.675
+tHypercube: 44182 micro secs
+tTrue: 88206 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 73
+Nearest neighbor-1: 7
+distanceHypercube: 386.66
+distanceTrue: 303.211
+tHypercube: 44572 micro secs
+tTrue: 89989 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 74
+Nearest neighbor-1: 2
+distanceHypercube: 443.819
+distanceTrue: 230.458
+tHypercube: 45282 micro secs
+tTrue: 88879 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 75
+Nearest neighbor-1: 22
+distanceHypercube: 282.866
+distanceTrue: 131.095
+tHypercube: 14267 micro secs
+tTrue: 91151 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 76
+Nearest neighbor-1: 16
+distanceHypercube: 396.31
+distanceTrue: 212.061
+tHypercube: 44517 micro secs
+tTrue: 90311 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 77
+Nearest neighbor-1: 39
+distanceHypercube: 366.719
+distanceTrue: 251.257
+tHypercube: 4037 micro secs
+tTrue: 91773 micro secs
+R-near neighbours:
+39
+40
+88
+96
+121
+123
+127
+130
+131
+145
+
+Query: 78
+Nearest neighbor-1: 30
+distanceHypercube: 385.062
+distanceTrue: 293.716
+tHypercube: 14225 micro secs
+tTrue: 89804 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 79
+Nearest neighbor-1: 1
+distanceHypercube: 312.373
+distanceTrue: 226.868
+tHypercube: 45259 micro secs
+tTrue: 89231 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 80
+Nearest neighbor-1: 99
+distanceHypercube: 253.132
+distanceTrue: 148.165
+tHypercube: 1976 micro secs
+tTrue: 90203 micro secs
+R-near neighbours:
+81
+99
+2337
+4556
+4564
+4579
+4607
+4609
+4643
+4690
+
+Query: 81
+Nearest neighbor-1: 7
+distanceHypercube: 586.781
+distanceTrue: 146.311
+tHypercube: 44745 micro secs
+tTrue: 91573 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 82
+Nearest neighbor-1: 15
+distanceHypercube: 364.635
+distanceTrue: 276.819
+tHypercube: 47019 micro secs
+tTrue: 90872 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 83
+Nearest neighbor-1: 10
+distanceHypercube: 404.746
+distanceTrue: 271.982
+tHypercube: 14958 micro secs
+tTrue: 89990 micro secs
+R-near neighbours:
+8
+9
+10
+11
+12
+19
+20
+21
+22
+30
+
+Query: 84
+Nearest neighbor-1: 58
+distanceHypercube: 340.25
+distanceTrue: 181.607
+tHypercube: 15181 micro secs
+tTrue: 92461 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 85
+Nearest neighbor-1: 13
+distanceHypercube: 335.628
+distanceTrue: 192.678
+tHypercube: 46988 micro secs
+tTrue: 94684 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 86
+Nearest neighbor-1: 322
+distanceHypercube: 537.879
+distanceTrue: 285.107
+tHypercube: 2837 micro secs
+tTrue: 94627 micro secs
+R-near neighbours:
+38
+46
+50
+82
+100
+322
+468
+1478
+1907
+2338
+
+Query: 87
+Nearest neighbor-1: 18
+distanceHypercube: 574.924
+distanceTrue: 224.907
+tHypercube: 47216 micro secs
+tTrue: 96840 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 88
+Nearest neighbor-1: 46
+distanceHypercube: 500.309
+distanceTrue: 123.56
+tHypercube: 2984 micro secs
+tTrue: 95721 micro secs
+R-near neighbours:
+38
+46
+50
+82
+100
+322
+468
+1478
+1907
+2338
+
+Query: 89
+Nearest neighbor-1: 14
+distanceHypercube: 596.325
+distanceTrue: 75.08
+tHypercube: 15315 micro secs
+tTrue: 92498 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 90
+Nearest neighbor-1: 47
+distanceHypercube: 224.453
+distanceTrue: 114.534
+tHypercube: 5613 micro secs
+tTrue: 94125 micro secs
+R-near neighbours:
+45
+47
+48
+69
+210
+330
+376
+377
+415
+424
+
+Query: 91
+Nearest neighbor-1: 33
+distanceHypercube: 207.576
+distanceTrue: 50.4579
+tHypercube: 15602 micro secs
+tTrue: 92227 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 92
+Nearest neighbor-1: 59
+distanceHypercube: 436.102
+distanceTrue: 298.027
+tHypercube: 15432 micro secs
+tTrue: 91601 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 93
+Nearest neighbor-1: 2
+distanceHypercube: 407.923
+distanceTrue: 141.464
+tHypercube: 44424 micro secs
+tTrue: 90463 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 94
+Nearest neighbor-1: 4
+distanceHypercube: 338.993
+distanceTrue: 234.774
+tHypercube: 14685 micro secs
+tTrue: 94459 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
+Query: 95
+Nearest neighbor-1: 415
+distanceHypercube: 459.071
+distanceTrue: 160.571
+tHypercube: 5177 micro secs
+tTrue: 93944 micro secs
+R-near neighbours:
+45
+47
+48
+69
+210
+330
+376
+377
+415
+424
+
+Query: 96
+Nearest neighbor-1: 18
+distanceHypercube: 583.945
+distanceTrue: 305.392
+tHypercube: 44689 micro secs
+tTrue: 95722 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 97
+Nearest neighbor-1: 16
+distanceHypercube: 391.639
+distanceTrue: 285.79
+tHypercube: 44597 micro secs
+tTrue: 95082 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 98
+Nearest neighbor-1: 18
+distanceHypercube: 418.645
+distanceTrue: 233.532
+tHypercube: 44183 micro secs
+tTrue: 91631 micro secs
+R-near neighbours:
+1
+2
+3
+5
+7
+13
+15
+16
+17
+18
+
+Query: 99
+Nearest neighbor-1: 1209
+distanceHypercube: 234.226
+distanceTrue: 137.43
+tHypercube: 1016 micro secs
+tTrue: 91489 micro secs
+R-near neighbours:
+37
+49
+68
+438
+1209
+1697
+1906
+2295
+2731
+3162
+
+Query: 100
+Nearest neighbor-1: 14
+distanceHypercube: 393.9
+distanceTrue: 184.613
+tHypercube: 14555 micro secs
+tTrue: 94292 micro secs
+R-near neighbours:
+4
+6
+14
+33
+35
+41
+57
+58
+59
+60
+
